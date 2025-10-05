@@ -226,11 +226,11 @@ function App() {
                             <div className="w-32 bg-gray-200 rounded-full h-2">
                               <div
                                 className="bg-gradient-to-r from-blue-500 to-purple-600 h-2 rounded-full transition-all duration-1000"
-                                style={{ width: `${probability}%` }}
+                                style={{ width: `${Number(probability).toFixed(2)}%` }}
                               ></div>
                             </div>
                             <span className="text-sm font-semibold text-gray-700 w-12 text-right">
-                              {probability}%
+                              {Number(probability).toFixed(2)}%
                             </span>
                           </div>
                         </div>
