@@ -1,4 +1,4 @@
-Good point 👍 — since you haven’t 🌦️ Climate Forecasting with LSTM & NASA Giovanni Data
+🌦️ Climate Forecasting with LSTM & NASA Giovanni Data
 
 🛰️ Overview
 
